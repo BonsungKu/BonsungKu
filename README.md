@@ -1,8 +1,12 @@
-# Hi there! :wave:
-- I'm studying programming languages usually cloning services.
+# Profile
+- 2014~2020 | Dankook University -major: Japanese
+- 2015~2015 | Studied at Senshu University -2months, in Kanagawa, Japan
+- 2015~2017 | Serviced for country as a soilder
+- 2017~2018 | Studied at Osaka gakuin University -1year, in Osaka, Japan
+- 2020~2022 | Worked at Dentistry sales company as a sales person
 
 <br><br>
-## Currently Studying :rocket:
+## Currently Studying
  **USING**  ```Visual Studio Code```
  
 ------------
@@ -13,7 +17,7 @@
 </div>
 
 <br><br><br>
-## Want to Study in the future :trident:
+## Want to Study in the future
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
