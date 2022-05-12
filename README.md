@@ -1,6 +1,5 @@
 # Hi there! :wave:
-- I'm currently working at Japanese dentistry sales company since 2020
-- I'm studying programming languages after I finished my work ( work is so hard so not everyday everytime ). Usually cloning some projects.
+- I'm studying programming languages usually cloning services.
 
 <br><br>
 ## Currently Studying :rocket:
